@@ -1,14 +1,14 @@
 # Block Chain
-## The block chain survey/learning
+The block chain survey/learning
 
-# Chapter 1. "Be Your Own Bank"
+## Chapter 1. "Be Your Own Bank"
 
 Let's begin by examining the architecture of blockchain and the key elements it contains. First, we need to clearly define the basic format and content of transactions and blocks.
 
 ### Transaction
 Similar to the bank transfers we are accustomed to, each transaction generates a detailed record, known as a Transaction. This record meticulously logs the sender, receiver, amount, transaction fee, and any accompanying notes.
 
-![1-1.Begin_Transition](https://github.com/PohanYang/BlockChain/blob/main/image/1-1.Begin_Transition.png
+![1-1.Begin_Transition](https://github.com/PohanYang/BlockChain/blob/main/image/1-1.Begin_Transition.png)
 
 For example, if we have a transaction ready to do:
 ```
