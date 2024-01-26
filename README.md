@@ -8,7 +8,7 @@ Let's begin by examining the architecture of blockchain and the key elements it 
 ### Transaction
 Similar to the bank transfers we are accustomed to, each transaction generates a detailed record, known as a Transaction. This record meticulously logs the sender, receiver, amount, transaction fee, and any accompanying notes.
 
-![image](picture or gif url)
+![1-1.Begin_Transition](https://github.com/PohanYang/BlockChain/blob/main/image/1-1.Begin_Transition.png
 
 For example, if we have a transaction ready to do:
 ```
@@ -33,7 +33,7 @@ struct _TRANS {
 }TRANS, *PTRAN;
 ```
 
-![image](picture or gif url)
+![1-2.Begin_Transition_Chain](https://github.com/PohanYang/BlockChain/blob/main/image/1-2.Begin_Transition_Chain.png)
 
 Next, each Transaction is encrypted using the simple sha-256 encryption method.
 Reference: [SHA-256](https://github.com/983/SHA-256 "link")
